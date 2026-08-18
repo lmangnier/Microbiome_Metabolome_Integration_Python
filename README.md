@@ -27,8 +27,8 @@ Additional custom functions are provided to interact Anndata with the skbio ecos
 
 Make sure you have the following packages installed to execute the notebooks: 
 
-{bash
+```bash
 
 pip install anndata pandas numpy scikit-bio scikit-learn plotnine seaborn pylimma statsmodels
 
-}
+```
